@@ -12,7 +12,8 @@ PDF: [Sratego_rules.pdf](https://github.com/GeorgeXiroudakis/Stratego-IceVsFire/
 
 video: https://www.youtube.com/watch?v=3R7d0A9ymwQ
 
-## javadoc, UML graphs, Report
+## javadoc, junit tests, UML graphs, Report
 
-Also icluded is the full javadoc of the project, a png and the file of the UML and a Report  on the project.
+Also icluded is the full javadoc of the project, some infividual junit test on key parts of the project (and a suit to run them all),
+a png and the file of the UML and a Report on the project.
 
